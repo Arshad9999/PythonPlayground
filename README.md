@@ -18,3 +18,7 @@ The factorial, Fibonacci, and prime scripts prompt for numeric input. Open `Pyth
 ## License
 
 The repository includes a Apache-2.0 license. See the checked-in license file and retain existing attribution.
+
+## Published site
+
+[Published learning notes](https://arshad9999.github.io/PythonPlayground/). The Pages deployment succeeded and the homepage returned HTTP 200 on 27 October 2026. This does not establish a working capture service or validate model results.
